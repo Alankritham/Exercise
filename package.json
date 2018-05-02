@@ -1,0 +1,25 @@
+{
+  "name": "Exercise",
+  "version": "1.0.0",
+  "description": "Sample exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alankritham/Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alankritham/Exercise/issues"
+  },
+  "homepage": "https://github.com/Alankritham/Exercise#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-node": "^1.14.5",
+    "require": "^2.4.20"
+  }
+}
