@@ -1,5 +1,5 @@
 # Exercise
-Sample exercise: This erercise finds the longest word in a sentence and the corresponding length of the word.
+Sample exercise: This exercise finds the longest word in a sentence and the corresponding length of the word.
 
 ## Testing
 To test this project:
